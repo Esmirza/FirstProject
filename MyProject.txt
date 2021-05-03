@@ -1,1 +1,9 @@
 Birinshi proekt. Bugin git haqqinda otilip atir
+
+proektti push qiliw ushin:
+git add .
+git commit "pause ushin tekst"
+git push
+
+basqa adam proektlerin push qiliw ushin:
+git clone https://github.com/UserName/ProjectName.git
